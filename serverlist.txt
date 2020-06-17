@@ -1,4 +1,8 @@
-HUE RACERS;http://200.98.139.241:8680
-eBattlegrounds;http://92.222.74.134:8680
-World Evolved;http://185.125.231.50:8680
-World Online PL;http://145.239.5.103:8680
+WorldUnited Official;http://70.38.78.206:8080/Engine.svc
+WOPL Reborn;http://connect.worldonline.pl/Engine.svc
+nightriderz;http://horizon.nightriderz.world:8080/Engine.svc
+World Evolved RU;http://78.107.251.45:8680/soapbox-race-core/Engine.svc
+Freeroam Sparkserverk;https://core.sparkserver.eu/soapbox-race-core/Engine.svc
+Zesty's Server;http://180.97.28.12:8680/soapbox-race-core/Engine.svc
+WorldUnited DEVELOPMENT;http://209.97.187.156:8080/Engine.svc
+UNDERGROUND STAGE;http://155.138.131.23:8080/core/Engine.svc
